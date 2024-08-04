@@ -1,4 +1,4 @@
-### Hi there 👋
+### Backend 개발자 김정석입니다.
 
 <!--
 **workk94/workk94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
